@@ -1,0 +1,7 @@
+ControlPort 9051
+CookieAuthentication 0
+DisableNetwork 0
+PidFile pid
+RunAsDaemon 1
+SafeSocks 0
+SOCKSPort 9050
